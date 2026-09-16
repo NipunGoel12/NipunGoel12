@@ -464,11 +464,11 @@ I'm continuously working towards becoming someone who can go from:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nipun-goel/">
+<a href="https://www.linkedin.com/in/nipun-goel-801a87373/">
 <img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:goelnipun12@gmail.com">
+<a href="mailto:nipungoeln12@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
